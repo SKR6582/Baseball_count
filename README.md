@@ -5,6 +5,7 @@
 - Node js 설치가 필요합니다. 
 
 > npm run build
+> 
 > npm run dev
  
  ---
