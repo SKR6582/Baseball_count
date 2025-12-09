@@ -1,6 +1,13 @@
 # React + Vite
 
 실제 KBO 경기와는 무관합니다.
+
+- Node js 설치가 필요합니다. 
+
+> npm run build
+> npm run dev
+ 
+ ---
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
